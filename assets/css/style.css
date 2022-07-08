@@ -99,7 +99,6 @@ body>main>div.article1>div.article1DivLeft>div {
 }
 
 .aDownload {
-
     background-color: #202020;
     color: #fff;
     border: 1px solid #202020;
@@ -114,7 +113,6 @@ body>main>div.article1>div.article1DivLeft>div {
 }
 
 .aSubscribe {
-
     background-color: #f5fbfee1;
     border: 1px solid #202020;
     border-radius: 6%;
@@ -148,7 +146,6 @@ body>main>div.article1>div.article1DivLeft>div {
 .aSubscribe:visited {
     color: #202020;
     text-decoration: none;
-
 }
 
 
@@ -156,7 +153,6 @@ body>main>div.article1>div.article1DivLeft>div {
     margin-top: 100px;
     display: flex;
     flex-direction: row;
-
 }
 
 .article2DivLeft>img {
@@ -245,7 +241,6 @@ body>main>div.article1>div.article3DivLeft>div {
 }
 
 .article4 {
-   
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -253,7 +248,7 @@ body>main>div.article1>div.article3DivLeft>div {
 
 .article4>h2 {
     margin-bottom: 10px;
-   
+
     font-size: 36px;
     margin-top: 100px;
 }
@@ -272,11 +267,10 @@ body>main>div.article1>div.article3DivLeft>div {
 }
 
 .article5 img {
-    width:33%;
+    width: 33%;
 }
 
 .article6 {
-   
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -299,14 +293,14 @@ body>main>div.article1>div.article3DivLeft>div {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap:26px;
+    gap: 26px;
     align-items: center;
     justify-content: center;
 }
 
 .article7 img {
-    width:45%;
-   
+    width: 45%;
+
 }
 
 .article8 {
@@ -323,7 +317,7 @@ body>main>div.article1>div.article3DivLeft>div {
 
 .article8>p {
     line-height: 1.6em;
-    width:50%;
+    width: 50%;
     text-align: center;
 }
 
@@ -333,16 +327,16 @@ body>main>div.article1>div.article3DivLeft>div {
 }
 
 .article9 {
-   margin-top:50px;
+    margin-top: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-   
+
 }
 
 .article9>h4 {
-    
+
     font-size: 25px;
     margin-top: 40px;
 }
@@ -353,11 +347,11 @@ body>main>div.article1>div.article3DivLeft>div {
 
 
 .divArticle9 {
-    text-align:center;
+    text-align: center;
     width: 25%;
     background-color: #f0f9fc;
     border-radius: 7px;
-    padding:10px;
+    padding: 10px;
 }
 
 .divArticle9>p {
@@ -365,18 +359,18 @@ body>main>div.article1>div.article3DivLeft>div {
 }
 
 .pPrice {
-    margin-top:40px;
+    margin-top: 40px;
     font-size: 30px;
     font-weight: bold;
 
 }
 
-.pYear{
+.pYear {
     color: grey;
 }
 
 .button {
- /* Green */
+    /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -386,56 +380,56 @@ body>main>div.article1>div.article3DivLeft>div {
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
-       background-color: #24bff2;
-      width: 256px;
-      height: 49px;
-      border-radius: 6px;
-      margin-top: 20px;
-     
-  }
+    background-color: #24bff2;
+    width: 256px;
+    height: 49px;
+    border-radius: 6px;
+    margin-top: 20px;
 
-  .pNoLink{
-      margin-top:25px;
-  }
-  
-  .article10 {
-    margin-top:58px;
-     display: flex;
-     flex-direction: column;
-     align-items: center;
-     justify-content: center;
-     font-size: 30px;
- }
+}
 
- .footer {
-     margin-top:50px;
- }
+.pNoLink {
+    margin-top: 25px;
+}
 
- .blueSpan{
-color:#3b5998;font-size: 30px;
- }
- .yellowSpan{
-     color:#fcaf45; font-size: 30px;
- }
+.article10 {
+    margin-top: 58px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
 
- .coloredSpan{
-     color:#55acee;
-     
-     font-size: 30px;
-     
+.footer {
+    margin-top: 50px;
+}
 
- }
- 
- .redSpan{
-     color:#c4302b ;
-     font-size: 30px;
- }
+.blueSpan {
+    color: #3b5998;
+    font-size: 30px;
+}
 
- .footer span{
+.yellowSpan {
+    color: #fcaf45;
+    font-size: 30px;
+}
+
+.coloredSpan {
+    color: #55acee;
+    font-size: 30px;
+}
+
+.redSpan {
+    color: #c4302b;
+    font-size: 30px;
+}
+
+.footer span {
     font-weight: 900;
- }
- 
-.f{
+}
+
+.f {
     margin-top: 50px;
     display: flex;
     flex-direction: column;
@@ -443,7 +437,3 @@ color:#3b5998;font-size: 30px;
     line-height: 2em;
     margin-bottom: 50px;
 }
-
-
-
-
