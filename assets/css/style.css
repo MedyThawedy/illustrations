@@ -177,7 +177,7 @@ body>main>div.article1>div.article1DivLeft>div {
 
 .article2DivLeft {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
 }
 
 .article2DivRight p {
